@@ -10,5 +10,6 @@ public class careerflowApplication {
 
 		SpringApplication.run(careerflowApplication.class, args);
 	}
- // jab ham spring main autoconfiguration add kar dete hai tho woh spring boot ban jatha hai
+ // we'll start soon
+	// jab ham spring main autoconfiguration add kar dete hai tho woh spring boot ban jatha hai
 }
